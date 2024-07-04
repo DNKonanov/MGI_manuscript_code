@@ -2,5 +2,7 @@
 The scripts to estimate misdemultiplexing rate in MGI runs 
 
 The Jupyterlab notebooks:
-* first
+* `Notebook_Test_IndividualBarcode.ipynb`
+* `Notebook_Test_full_PE300.ipynb`
+
 
