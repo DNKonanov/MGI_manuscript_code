@@ -9,3 +9,8 @@ barcode_stat files are used.
 * `Notebook_Plot_IDdiff_histograms.ipynb` - the code to plot distribution of differences in read ID between duplicated reads.
 
 
+### Duplicates analysis
+The `test_duplicates` folder contains demo data for the duplicates identification. It includes the fastq-file for one field of view (C001R001).
+The full processing pipeline could be run using `run.sh` script.
+
+The dependencies for `run.sh`: pandas, numpy, matplotlib, seaborn, biopython, blastn, makeblastdb
